@@ -1,0 +1,12 @@
+*.exe
+*.o
+*.obj
+*.pdb
+*.dll
+*.log
+.vs/
+.vscode/
+build/
+Debug/
+Release/
+Thumbs.db
