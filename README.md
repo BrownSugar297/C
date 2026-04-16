@@ -1,4 +1,4 @@
-# 📘 C Programming — Learning Repository
+# 📘 C Programming 
 
 ![Language](https://img.shields.io/badge/Language-C-blue?style=flat-square&logo=c)
 ![Level](https://img.shields.io/badge/Level-Beginner%20to%20Intermediate-green?style=flat-square)
